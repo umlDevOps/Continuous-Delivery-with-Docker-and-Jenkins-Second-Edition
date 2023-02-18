@@ -11,4 +11,6 @@
      </module>
 </module>
 
-<module name="ConstantName"/>
+<module name="ConstantName">
+     <property name="applyToPublic" value=:"false"/>
+</module>
